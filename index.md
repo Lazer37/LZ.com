@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>FC Bayern Munich</title>
 <h1><strong>FC Bayern Munich</strong></h1>
 <div class="promotion-declaration">
 </div>
