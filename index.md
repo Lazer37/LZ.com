@@ -163,13 +163,13 @@
 <p>President FC Bayern Munich and chairman of the board:</p>
 <a href="https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F">Uli Hoenes</a>
 <p>
-<img src="D:\images\2.jpg" width="250" />
+<img src="https://baike.baidu.com/pic/%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/4604932/0/503d269759ee3d6de7e7ca8d49166d224f4ade57?fr=lemma&ct=single#aid=0&pic=55e736d12f2eb93828ec88a4dc628535e4dd6fe7" width="250" />
 </p>
 
 
 <p>Chairman:</p>
 <a href="https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge">Karl-Heinz Rummenigge</a>
 <p>
-<img src="D:\images\3.jpg" width="250" />
+<img src="https://baike.baidu.com/pic/%E6%8B%9C%E4%BB%81%E6%85%95%E5%B0%BC%E9%BB%91%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/4604932/0/503d269759ee3d6de7e7ca8d49166d224f4ade57?fr=lemma&ct=single#aid=0&pic=6c224f4a20a4462363ff58349122720e0cf3d7ab" width="250" />
 </p>
 </html>
